@@ -1,0 +1,71 @@
+{
+  "uid" : "53463c53aa18032a",
+  "name" : "这是test后面的描述",
+  "fullName" : "TestXunit.LoginTest.testUserLogin",
+  "historyId" : "b967e3fd2442b546186c0e8c5cd17cf6",
+  "time" : {
+    "start" : 1565449881421,
+    "stop" : 1565449881422,
+    "duration" : 1
+  },
+  "description" : "这是艾特的描述",
+  "descriptionHtml" : "<p>这是艾特的描述</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestXunit.LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "TestXunit.LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testUserLogin"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "/Users/leitianxiao/Documents/XunitDemo"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestXunit.LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "DayBreak.local"
+  }, {
+    "name" : "thread",
+    "value" : "18806@DayBreak.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "admin"
+  }, {
+    "name" : "arg1",
+    "value" : "12345"
+  }, {
+    "name" : "arg2",
+    "value" : "欢迎管理员"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "53463c53aa18032a.json",
+  "parameterValues" : [ "admin", "12345", "欢迎管理员" ]
+}

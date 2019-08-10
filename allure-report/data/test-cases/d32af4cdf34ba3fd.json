@@ -1,0 +1,121 @@
+{
+  "uid" : "d32af4cdf34ba3fd",
+  "name" : "用户登录测试",
+  "fullName" : "TestXunit.LoginTest.testUserLogin",
+  "historyId" : "f02e494f9c924523efdcee12f8809e21",
+  "time" : {
+    "start" : 1565454616545,
+    "stop" : 1565454616547,
+    "duration" : 2
+  },
+  "description" : "购物系统用户登录单元测试",
+  "descriptionHtml" : "<p>购物系统用户登录单元测试</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "购物系统用户登录单元测试",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤1",
+      "time" : {
+        "start" : 1565454616545,
+        "stop" : 1565454616546,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f50a0133336a970e",
+        "name" : "demo pic",
+        "source" : "f50a0133336a970e.jpeg",
+        "type" : "image/jpeg",
+        "size" : 189285
+      } ],
+      "parameters" : [ {
+        "name" : "name",
+        "value" : ""
+      }, {
+        "name" : "pwd",
+        "value" : ""
+      }, {
+        "name" : "expect",
+        "value" : "用户名或密码不能为空"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestXunit.LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "TestXunit.LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testUserLogin"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "/Users/leitianxiao/Documents/XunitDemo"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestXunit.LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "DayBreak.local"
+  }, {
+    "name" : "thread",
+    "value" : "19675@DayBreak.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : ""
+  }, {
+    "name" : "arg1",
+    "value" : ""
+  }, {
+    "name" : "arg2",
+    "value" : "用户名或密码不能为空"
+  } ],
+  "links" : [ {
+    "name" : "123",
+    "type" : "issue"
+  }, {
+    "name" : "https://github.com/allure-framework/allure2/",
+    "type" : "custom"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d32af4cdf34ba3fd.json",
+  "parameterValues" : [ "", "", "用户名或密码不能为空" ]
+}

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="34" started-at="2019-08-09T16:35:17Z" finished-at="2019-08-09T16:35:17Z">
+    <groups>
+    </groups>
+    <test name="/Users/leitianxiao/Documents/XunitDemo" duration-ms="34" started-at="2019-08-09T16:35:17Z" finished-at="2019-08-09T16:35:17Z">
+      <class name="TestXunit.ShoppingTest">
+        <test-method status="PASS" signature="testGetPrice(java.lang.String, java.lang.String, int, int)[pri:0, instance:TestXunit.ShoppingTest@6e3c1e69]" name="testGetPrice" duration-ms="1" started-at="2019-08-09T16:35:17Z" data-provider="getProPrice" finished-at="2019-08-09T16:35:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[-2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetPrice -->
+        <test-method status="PASS" signature="testGetPrice(java.lang.String, java.lang.String, int, int)[pri:0, instance:TestXunit.ShoppingTest@6e3c1e69]" name="testGetPrice" duration-ms="0" started-at="2019-08-09T16:35:17Z" data-provider="getProPrice" finished-at="2019-08-09T16:35:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[-2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetPrice -->
+        <test-method status="PASS" signature="testGetPrice(java.lang.String, java.lang.String, int, int)[pri:0, instance:TestXunit.ShoppingTest@6e3c1e69]" name="testGetPrice" duration-ms="1" started-at="2019-08-09T16:35:17Z" data-provider="getProPrice" finished-at="2019-08-09T16:35:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[zhangsan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetPrice -->
+        <test-method status="PASS" signature="testGetPrice(java.lang.String, java.lang.String, int, int)[pri:0, instance:TestXunit.ShoppingTest@6e3c1e69]" name="testGetPrice" duration-ms="0" started-at="2019-08-09T16:35:17Z" data-provider="getProPrice" finished-at="2019-08-09T16:35:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[-2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetPrice -->
+        <test-method status="PASS" signature="testGetPrice(java.lang.String, java.lang.String, int, int)[pri:0, instance:TestXunit.ShoppingTest@6e3c1e69]" name="testGetPrice" duration-ms="1" started-at="2019-08-09T16:35:17Z" data-provider="getProPrice" finished-at="2019-08-09T16:35:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[120]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetPrice -->
+        <test-method status="PASS" signature="testGetPrice(java.lang.String, java.lang.String, int, int)[pri:0, instance:TestXunit.ShoppingTest@6e3c1e69]" name="testGetPrice" duration-ms="0" started-at="2019-08-09T16:35:17Z" data-provider="getProPrice" finished-at="2019-08-09T16:35:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lisi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[-1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetPrice -->
+        <test-method status="PASS" signature="testGetPrice(java.lang.String, java.lang.String, int, int)[pri:0, instance:TestXunit.ShoppingTest@6e3c1e69]" name="testGetPrice" duration-ms="0" started-at="2019-08-09T16:35:17Z" data-provider="getProPrice" finished-at="2019-08-09T16:35:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lisi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[80]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetPrice -->
+      </class> <!-- TestXunit.ShoppingTest -->
+      <class name="TestXunit.LoginTest">
+        <test-method status="PASS" signature="testUserLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestXunit.LoginTest@2aaf7cc2]" name="testUserLogin" duration-ms="6" started-at="2019-08-09T16:35:17Z" data-provider="getUsers" finished-at="2019-08-09T16:35:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[zhangsan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[欢迎zhangsan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserLogin -->
+        <test-method status="PASS" signature="testUserLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestXunit.LoginTest@2aaf7cc2]" name="testUserLogin" duration-ms="0" started-at="2019-08-09T16:35:17Z" data-provider="getUsers" finished-at="2019-08-09T16:35:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[欢迎管理员]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserLogin -->
+        <test-method status="PASS" signature="testUserLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestXunit.LoginTest@2aaf7cc2]" name="testUserLogin" duration-ms="0" started-at="2019-08-09T16:35:17Z" data-provider="getUsers" finished-at="2019-08-09T16:35:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[用户名或密码不能为空]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserLogin -->
+        <test-method status="PASS" signature="testUserLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestXunit.LoginTest@2aaf7cc2]" name="testUserLogin" duration-ms="0" started-at="2019-08-09T16:35:17Z" data-provider="getUsers" finished-at="2019-08-09T16:35:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[用户名或密码不能为空]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserLogin -->
+      </class> <!-- TestXunit.LoginTest -->
+    </test> <!-- /Users/leitianxiao/Documents/XunitDemo -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

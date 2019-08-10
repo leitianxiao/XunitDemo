@@ -1,0 +1,74 @@
+{
+  "uid" : "6be7592b9d0e6e78",
+  "name" : "testGetPrice",
+  "fullName" : "TestXunit.ShoppingTest.testGetPrice",
+  "historyId" : "399c33dbe7b7815fc1e89a3516c5caad",
+  "time" : {
+    "start" : 1565450007400,
+    "stop" : 1565450007401,
+    "duration" : 1
+  },
+  "description" : "查询商品价格测试",
+  "descriptionHtml" : "<p>查询商品价格测试</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestXunit.ShoppingTest"
+  }, {
+    "name" : "testClass",
+    "value" : "TestXunit.ShoppingTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testGetPrice"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "/Users/leitianxiao/Documents/XunitDemo"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestXunit.ShoppingTest"
+  }, {
+    "name" : "host",
+    "value" : "DayBreak.local"
+  }, {
+    "name" : "thread",
+    "value" : "18890@DayBreak.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "zhangsan"
+  }, {
+    "name" : "arg1",
+    "value" : "12345"
+  }, {
+    "name" : "arg2",
+    "value" : "1"
+  }, {
+    "name" : "arg3",
+    "value" : "200"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6be7592b9d0e6e78.json",
+  "parameterValues" : [ "zhangsan", "12345", "1", "200" ]
+}

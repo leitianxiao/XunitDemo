@@ -1,0 +1,164 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "All Test Suite",
+    "children" : [ {
+      "name" : "/Users/leitianxiao/Documents/XunitDemo",
+      "children" : [ {
+        "name" : "TestXunit.LoginTest",
+        "children" : [ {
+          "name" : "用户登录测试",
+          "uid" : "6a229b7afa7a8f46",
+          "parentUid" : "ec2ffe811390652120b45d997f96cbd2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1565455009105,
+            "stop" : 1565455009175,
+            "duration" : 70
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "zhangsan", "123456", "欢迎zhangsan" ]
+        }, {
+          "name" : "用户登录测试",
+          "uid" : "646cbf593cb47a64",
+          "parentUid" : "ec2ffe811390652120b45d997f96cbd2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1565455009289,
+            "stop" : 1565455009291,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "", "", "用户名或密码不能为空" ]
+        }, {
+          "name" : "用户登录测试",
+          "uid" : "210e5e566f96be71",
+          "parentUid" : "ec2ffe811390652120b45d997f96cbd2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1565455009296,
+            "stop" : 1565455009298,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "admin", "", "用户名或密码不能为空" ]
+        }, {
+          "name" : "用户登录测试",
+          "uid" : "fd78b29333aa2b5",
+          "parentUid" : "ec2ffe811390652120b45d997f96cbd2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1565455009302,
+            "stop" : 1565455009305,
+            "duration" : 3
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "admin", "12345", "欢迎管理员" ]
+        } ],
+        "uid" : "ec2ffe811390652120b45d997f96cbd2"
+      }, {
+        "name" : "TestXunit.ShoppingTest",
+        "children" : [ {
+          "name" : "testGetPrice",
+          "uid" : "4980ac145ae24e48",
+          "parentUid" : "e40be3b830b1d77eb70802323fc9b5ee",
+          "status" : "passed",
+          "time" : {
+            "start" : 1565455009309,
+            "stop" : 1565455009310,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "", "", "1", "-2" ]
+        }, {
+          "name" : "testGetPrice",
+          "uid" : "b85fee21f877ed5d",
+          "parentUid" : "e40be3b830b1d77eb70802323fc9b5ee",
+          "status" : "passed",
+          "time" : {
+            "start" : 1565455009311,
+            "stop" : 1565455009312,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "admin", "", "2", "-2" ]
+        }, {
+          "name" : "testGetPrice",
+          "uid" : "a40fb74c577782e2",
+          "parentUid" : "e40be3b830b1d77eb70802323fc9b5ee",
+          "status" : "passed",
+          "time" : {
+            "start" : 1565455009314,
+            "stop" : 1565455009315,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "", "", "0", "-2" ]
+        }, {
+          "name" : "testGetPrice",
+          "uid" : "5427968706a9e87a",
+          "parentUid" : "e40be3b830b1d77eb70802323fc9b5ee",
+          "status" : "passed",
+          "time" : {
+            "start" : 1565455009317,
+            "stop" : 1565455009318,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "zhangsan", "12345", "1", "200" ]
+        }, {
+          "name" : "testGetPrice",
+          "uid" : "61038a517e2e373f",
+          "parentUid" : "e40be3b830b1d77eb70802323fc9b5ee",
+          "status" : "passed",
+          "time" : {
+            "start" : 1565455009320,
+            "stop" : 1565455009320,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "admin", "12345", "2", "120" ]
+        }, {
+          "name" : "testGetPrice",
+          "uid" : "b706916e9c0c2484",
+          "parentUid" : "e40be3b830b1d77eb70802323fc9b5ee",
+          "status" : "passed",
+          "time" : {
+            "start" : 1565455009322,
+            "stop" : 1565455009323,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "lisi", "123", "3", "80" ]
+        }, {
+          "name" : "testGetPrice",
+          "uid" : "1ee7021113abd739",
+          "parentUid" : "e40be3b830b1d77eb70802323fc9b5ee",
+          "status" : "passed",
+          "time" : {
+            "start" : 1565455009326,
+            "stop" : 1565455009326,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "lisi", "123", "0", "-1" ]
+        } ],
+        "uid" : "e40be3b830b1d77eb70802323fc9b5ee"
+      } ],
+      "uid" : "662df9ac61c41b42e1ad994bfd3308f7"
+    } ],
+    "uid" : "7d0421919ebcae780c955830177c9415"
+  } ]
+}

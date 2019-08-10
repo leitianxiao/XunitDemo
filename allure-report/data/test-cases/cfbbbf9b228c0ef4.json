@@ -1,0 +1,121 @@
+{
+  "uid" : "cfbbbf9b228c0ef4",
+  "name" : "用户登录测试",
+  "fullName" : "TestXunit.LoginTest.testUserLogin",
+  "historyId" : "14ea43bf70d0d534d48c6dcf0c8b731c",
+  "time" : {
+    "start" : 1565454791987,
+    "stop" : 1565454792070,
+    "duration" : 83
+  },
+  "description" : "购物系统用户登录单元测试",
+  "descriptionHtml" : "<p>购物系统用户登录单元测试</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "购物系统用户登录单元测试",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤1",
+      "time" : {
+        "start" : 1565454792026,
+        "stop" : 1565454792068,
+        "duration" : 42
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "eb6d3b445cfe2259",
+        "name" : "demo pic",
+        "source" : "eb6d3b445cfe2259.jpeg",
+        "type" : "image/jpeg",
+        "size" : 189285
+      } ],
+      "parameters" : [ {
+        "name" : "name",
+        "value" : "zhangsan"
+      }, {
+        "name" : "pwd",
+        "value" : "123456"
+      }, {
+        "name" : "expect",
+        "value" : "欢迎zhangsan"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestXunit.LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "TestXunit.LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testUserLogin"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "/Users/leitianxiao/Documents/XunitDemo"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestXunit.LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "DayBreak.local"
+  }, {
+    "name" : "thread",
+    "value" : "19856@DayBreak.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "zhangsan"
+  }, {
+    "name" : "arg1",
+    "value" : "123456"
+  }, {
+    "name" : "arg2",
+    "value" : "欢迎zhangsan"
+  } ],
+  "links" : [ {
+    "name" : "https://github.com/allure-framework/allure2/",
+    "type" : "custom"
+  }, {
+    "name" : "123",
+    "type" : "issue"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cfbbbf9b228c0ef4.json",
+  "parameterValues" : [ "zhangsan", "123456", "欢迎zhangsan" ]
+}

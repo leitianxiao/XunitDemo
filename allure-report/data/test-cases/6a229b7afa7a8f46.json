@@ -1,0 +1,195 @@
+{
+  "uid" : "6a229b7afa7a8f46",
+  "name" : "用户登录测试",
+  "fullName" : "TestXunit.LoginTest.testUserLogin",
+  "historyId" : "14ea43bf70d0d534d48c6dcf0c8b731c",
+  "time" : {
+    "start" : 1565455009105,
+    "stop" : 1565455009175,
+    "duration" : 70
+  },
+  "description" : "购物系统用户登录单元测试",
+  "descriptionHtml" : "<p>购物系统用户登录单元测试</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "购物系统用户登录单元测试",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤1",
+      "time" : {
+        "start" : 1565455009145,
+        "stop" : 1565455009173,
+        "duration" : 28
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1149eefd885d5f21",
+        "name" : "demo pic",
+        "source" : "1149eefd885d5f21.jpeg",
+        "type" : "image/jpeg",
+        "size" : 189285
+      } ],
+      "parameters" : [ {
+        "name" : "name",
+        "value" : "zhangsan"
+      }, {
+        "name" : "pwd",
+        "value" : "123456"
+      }, {
+        "name" : "expect",
+        "value" : "欢迎zhangsan"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestXunit.LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "TestXunit.LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testUserLogin"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "/Users/leitianxiao/Documents/XunitDemo"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestXunit.LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "DayBreak.local"
+  }, {
+    "name" : "thread",
+    "value" : "20175@DayBreak.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "zhangsan"
+  }, {
+    "name" : "arg1",
+    "value" : "123456"
+  }, {
+    "name" : "arg2",
+    "value" : "欢迎zhangsan"
+  } ],
+  "links" : [ {
+    "name" : "https://github.com/allure-framework/allure2/",
+    "type" : "custom"
+  }, {
+    "name" : "123",
+    "type" : "issue"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cfbbbf9b228c0ef4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565454791987,
+        "stop" : 1565454792070,
+        "duration" : 83
+      }
+    }, {
+      "uid" : "30ffd26fcdcab0b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565454656606,
+        "stop" : 1565454656687,
+        "duration" : 81
+      }
+    }, {
+      "uid" : "8b04e8c124cf242d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565454616363,
+        "stop" : 1565454616438,
+        "duration" : 75
+      }
+    }, {
+      "uid" : "c5326e6080b82db8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565453206378,
+        "stop" : 1565453206448,
+        "duration" : 70
+      }
+    }, {
+      "uid" : "191816ccf5388d13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565452975289,
+        "stop" : 1565452975350,
+        "duration" : 61
+      }
+    }, {
+      "uid" : "e4a3f59acc058632",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565452664821,
+        "stop" : 1565452664841,
+        "duration" : 20
+      }
+    }, {
+      "uid" : "85f5c7fc45211c6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565450773164,
+        "stop" : 1565450773174,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "d756db80608926f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565450007293,
+        "stop" : 1565450007301,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "574a7fe1a39fed56",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565449881319,
+        "stop" : 1565449881329,
+        "duration" : 10
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6a229b7afa7a8f46.json",
+  "parameterValues" : [ "zhangsan", "123456", "欢迎zhangsan" ]
+}

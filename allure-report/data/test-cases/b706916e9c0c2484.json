@@ -1,0 +1,148 @@
+{
+  "uid" : "b706916e9c0c2484",
+  "name" : "testGetPrice",
+  "fullName" : "TestXunit.ShoppingTest.testGetPrice",
+  "historyId" : "9f8b54ac584de4c4a6bae7f08c579186",
+  "time" : {
+    "start" : 1565455009322,
+    "stop" : 1565455009323,
+    "duration" : 1
+  },
+  "description" : "查询商品价格测试",
+  "descriptionHtml" : "<p>查询商品价格测试</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestXunit.ShoppingTest"
+  }, {
+    "name" : "testClass",
+    "value" : "TestXunit.ShoppingTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testGetPrice"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "/Users/leitianxiao/Documents/XunitDemo"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestXunit.ShoppingTest"
+  }, {
+    "name" : "host",
+    "value" : "DayBreak.local"
+  }, {
+    "name" : "thread",
+    "value" : "20175@DayBreak.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "lisi"
+  }, {
+    "name" : "arg1",
+    "value" : "123"
+  }, {
+    "name" : "arg2",
+    "value" : "3"
+  }, {
+    "name" : "arg3",
+    "value" : "80"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ae86dc12eadb4c08",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565454792210,
+        "stop" : 1565454792210,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2fa1c8d3879fb707",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565454656815,
+        "stop" : 1565454656816,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "2b3446bd0605bce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565454616578,
+        "stop" : 1565454616578,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "88aa38aec6b45f78",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565453206583,
+        "stop" : 1565453206583,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1b5b59efe04e9a5b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565452975460,
+        "stop" : 1565452975460,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "dbec6e599b9cb7dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565452665010,
+        "stop" : 1565452665011,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "eccfeb38fa7ea0bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565450773300,
+        "stop" : 1565450773300,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1b9e97c36e860980",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565450007405,
+        "stop" : 1565450007405,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b486ef1670701716",
+      "status" : "passed",
+      "time" : {
+        "start" : 1565449881436,
+        "stop" : 1565449881437,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b706916e9c0c2484.json",
+  "parameterValues" : [ "lisi", "123", "3", "80" ]
+}

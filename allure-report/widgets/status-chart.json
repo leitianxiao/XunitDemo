@@ -1,0 +1,111 @@
+[ {
+  "uid" : "210e5e566f96be71",
+  "name" : "用户登录测试",
+  "time" : {
+    "start" : 1565455009296,
+    "stop" : 1565455009298,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5427968706a9e87a",
+  "name" : "testGetPrice",
+  "time" : {
+    "start" : 1565455009317,
+    "stop" : 1565455009318,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd78b29333aa2b5",
+  "name" : "用户登录测试",
+  "time" : {
+    "start" : 1565455009302,
+    "stop" : 1565455009305,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ee7021113abd739",
+  "name" : "testGetPrice",
+  "time" : {
+    "start" : 1565455009326,
+    "stop" : 1565455009326,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4980ac145ae24e48",
+  "name" : "testGetPrice",
+  "time" : {
+    "start" : 1565455009309,
+    "stop" : 1565455009310,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b85fee21f877ed5d",
+  "name" : "testGetPrice",
+  "time" : {
+    "start" : 1565455009311,
+    "stop" : 1565455009312,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b706916e9c0c2484",
+  "name" : "testGetPrice",
+  "time" : {
+    "start" : 1565455009322,
+    "stop" : 1565455009323,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "646cbf593cb47a64",
+  "name" : "用户登录测试",
+  "time" : {
+    "start" : 1565455009289,
+    "stop" : 1565455009291,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a40fb74c577782e2",
+  "name" : "testGetPrice",
+  "time" : {
+    "start" : 1565455009314,
+    "stop" : 1565455009315,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a229b7afa7a8f46",
+  "name" : "用户登录测试",
+  "time" : {
+    "start" : 1565455009105,
+    "stop" : 1565455009175,
+    "duration" : 70
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "61038a517e2e373f",
+  "name" : "testGetPrice",
+  "time" : {
+    "start" : 1565455009320,
+    "stop" : 1565455009320,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

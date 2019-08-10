@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/leitianxiao/Documents/XunitDemo">
+        <groups>
+            <dependencies>
+                <group name="group1" depends-on="">
+                    <classes>
+                        <class name="TestXunit.LoginTest">
+                            <methods>
+                                <include name="testUserLogin"></include>
+
+                            </methods>
+                        </class>
+                        <class name="TestXunit.ShoppingTest">
+                            <methods>
+                                <include name="testGetPrice"></include>
+                            </methods>
+                        </class>
+                    </classes>
+                </group>
+            </dependencies>
+        </groups>
+    </test>
+</suite>

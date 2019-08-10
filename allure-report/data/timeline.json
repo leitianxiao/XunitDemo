@@ -1,0 +1,1479 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DayBreak.local",
+    "children" : [ {
+      "name" : "19675@DayBreak.local.main(1)",
+      "children" : [ {
+        "name" : "用户登录测试",
+        "uid" : "b6b8de7325145b34",
+        "parentUid" : "8c9029c07050c6c7f8198297723e8127",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454616551,
+          "stop" : 1565454616553,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "", "用户名或密码不能为空" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "6d9772a9afae8fb4",
+        "parentUid" : "8c9029c07050c6c7f8198297723e8127",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454616581,
+          "stop" : 1565454616581,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "lisi", "123", "0", "-1" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "8b04e8c124cf242d",
+        "parentUid" : "8c9029c07050c6c7f8198297723e8127",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454616363,
+          "stop" : 1565454616438,
+          "duration" : 75
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "zhangsan", "123456", "欢迎zhangsan" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "941204f78c8b05d0",
+        "parentUid" : "8c9029c07050c6c7f8198297723e8127",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454616572,
+          "stop" : 1565454616573,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "zhangsan", "12345", "1", "200" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "47a4cdd1195fac9a",
+        "parentUid" : "8c9029c07050c6c7f8198297723e8127",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454616568,
+          "stop" : 1565454616568,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "", "2", "-2" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "1189f241867e7276",
+        "parentUid" : "8c9029c07050c6c7f8198297723e8127",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454616563,
+          "stop" : 1565454616566,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "1", "-2" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "2b3446bd0605bce",
+        "parentUid" : "8c9029c07050c6c7f8198297723e8127",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454616578,
+          "stop" : 1565454616578,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "lisi", "123", "3", "80" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "72f71d17637768c4",
+        "parentUid" : "8c9029c07050c6c7f8198297723e8127",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454616576,
+          "stop" : 1565454616576,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "12345", "2", "120" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "d32af4cdf34ba3fd",
+        "parentUid" : "8c9029c07050c6c7f8198297723e8127",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454616545,
+          "stop" : 1565454616547,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "用户名或密码不能为空" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "62eb534817c29fc3",
+        "parentUid" : "8c9029c07050c6c7f8198297723e8127",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454616557,
+          "stop" : 1565454616559,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "12345", "欢迎管理员" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "c11a273a6f20efa2",
+        "parentUid" : "8c9029c07050c6c7f8198297723e8127",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454616570,
+          "stop" : 1565454616570,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "0", "-2" ]
+      } ],
+      "uid" : "8c9029c07050c6c7f8198297723e8127"
+    }, {
+      "name" : "18976@DayBreak.local.main(1)",
+      "children" : [ {
+        "name" : "testGetPrice",
+        "uid" : "32f06d23bea14012",
+        "parentUid" : "954724e8531b03a29de70c0bdd186814",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565450773293,
+          "stop" : 1565450773293,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "0", "-2" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "e4ffc43a151a037c",
+        "parentUid" : "954724e8531b03a29de70c0bdd186814",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565450773298,
+          "stop" : 1565450773298,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "12345", "2", "120" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "fa1135c5097436df",
+        "parentUid" : "954724e8531b03a29de70c0bdd186814",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565450773279,
+          "stop" : 1565450773280,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "用户名或密码不能为空" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "d1d5eecd2d78863c",
+        "parentUid" : "954724e8531b03a29de70c0bdd186814",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565450773288,
+          "stop" : 1565450773289,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "1", "-2" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "8585c4088c3f75ad",
+        "parentUid" : "954724e8531b03a29de70c0bdd186814",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565450773283,
+          "stop" : 1565450773283,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "", "用户名或密码不能为空" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "c243df970cb6d382",
+        "parentUid" : "954724e8531b03a29de70c0bdd186814",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565450773284,
+          "stop" : 1565450773285,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "12345", "欢迎管理员" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "eccfeb38fa7ea0bd",
+        "parentUid" : "954724e8531b03a29de70c0bdd186814",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565450773300,
+          "stop" : 1565450773300,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "lisi", "123", "3", "80" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "a0e36a7e720e40dc",
+        "parentUid" : "954724e8531b03a29de70c0bdd186814",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565450773302,
+          "stop" : 1565450773302,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "lisi", "123", "0", "-1" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "7830d5cbdb90c061",
+        "parentUid" : "954724e8531b03a29de70c0bdd186814",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565450773291,
+          "stop" : 1565450773291,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "", "2", "-2" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "9c6494729a3b2507",
+        "parentUid" : "954724e8531b03a29de70c0bdd186814",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565450773295,
+          "stop" : 1565450773296,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "zhangsan", "12345", "1", "200" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "85f5c7fc45211c6f",
+        "parentUid" : "954724e8531b03a29de70c0bdd186814",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565450773164,
+          "stop" : 1565450773174,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "zhangsan", "123456", "欢迎zhangsan" ]
+      } ],
+      "uid" : "954724e8531b03a29de70c0bdd186814"
+    }, {
+      "name" : "19251@DayBreak.local.main(1)",
+      "children" : [ {
+        "name" : "testGetPrice",
+        "uid" : "f67904f85134ab55",
+        "parentUid" : "b7e5416b2a3824586f7b9ed5dfe1dde6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565453206576,
+          "stop" : 1565453206576,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "0", "-2" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "ec9338b386c7b4cf",
+        "parentUid" : "b7e5416b2a3824586f7b9ed5dfe1dde6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565453206563,
+          "stop" : 1565453206565,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "12345", "欢迎管理员" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "2a7275e77def665",
+        "parentUid" : "b7e5416b2a3824586f7b9ed5dfe1dde6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565453206551,
+          "stop" : 1565453206553,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "用户名或密码不能为空" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "3a694895664dbda9",
+        "parentUid" : "b7e5416b2a3824586f7b9ed5dfe1dde6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565453206585,
+          "stop" : 1565453206585,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "lisi", "123", "0", "-1" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "c5326e6080b82db8",
+        "parentUid" : "b7e5416b2a3824586f7b9ed5dfe1dde6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565453206378,
+          "stop" : 1565453206448,
+          "duration" : 70
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "zhangsan", "123456", "欢迎zhangsan" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "88aa38aec6b45f78",
+        "parentUid" : "b7e5416b2a3824586f7b9ed5dfe1dde6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565453206583,
+          "stop" : 1565453206583,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "lisi", "123", "3", "80" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "c33c84f02de74587",
+        "parentUid" : "b7e5416b2a3824586f7b9ed5dfe1dde6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565453206578,
+          "stop" : 1565453206579,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "zhangsan", "12345", "1", "200" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "96f2dd764060de7a",
+        "parentUid" : "b7e5416b2a3824586f7b9ed5dfe1dde6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565453206557,
+          "stop" : 1565453206559,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "", "用户名或密码不能为空" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "9b96a92ab4c2dc94",
+        "parentUid" : "b7e5416b2a3824586f7b9ed5dfe1dde6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565453206570,
+          "stop" : 1565453206572,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "1", "-2" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "73405158948588df",
+        "parentUid" : "b7e5416b2a3824586f7b9ed5dfe1dde6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565453206581,
+          "stop" : 1565453206581,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "12345", "2", "120" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "ed43653767ea1912",
+        "parentUid" : "b7e5416b2a3824586f7b9ed5dfe1dde6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565453206574,
+          "stop" : 1565453206574,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "", "2", "-2" ]
+      } ],
+      "uid" : "b7e5416b2a3824586f7b9ed5dfe1dde6"
+    }, {
+      "name" : "19732@DayBreak.local.main(1)",
+      "children" : [ {
+        "name" : "testGetPrice",
+        "uid" : "178e689dc4a752c3",
+        "parentUid" : "e8c3142d71fec7f835dd3b16bfed2fa4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454656808,
+          "stop" : 1565454656809,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "0", "-2" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "2fa1c8d3879fb707",
+        "parentUid" : "e8c3142d71fec7f835dd3b16bfed2fa4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454656815,
+          "stop" : 1565454656816,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "lisi", "123", "3", "80" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "370c3c64f5b142e0",
+        "parentUid" : "e8c3142d71fec7f835dd3b16bfed2fa4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454656795,
+          "stop" : 1565454656797,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "12345", "欢迎管理员" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "c2f61ea27037aa1d",
+        "parentUid" : "e8c3142d71fec7f835dd3b16bfed2fa4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454656789,
+          "stop" : 1565454656791,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "", "用户名或密码不能为空" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "6081eb22fda5a64f",
+        "parentUid" : "e8c3142d71fec7f835dd3b16bfed2fa4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454656813,
+          "stop" : 1565454656813,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "12345", "2", "120" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "8dc6157ba3ec40c3",
+        "parentUid" : "e8c3142d71fec7f835dd3b16bfed2fa4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454656782,
+          "stop" : 1565454656784,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "用户名或密码不能为空" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "30ffd26fcdcab0b8",
+        "parentUid" : "e8c3142d71fec7f835dd3b16bfed2fa4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454656606,
+          "stop" : 1565454656687,
+          "duration" : 81
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "zhangsan", "123456", "欢迎zhangsan" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "2676743afc48bf0",
+        "parentUid" : "e8c3142d71fec7f835dd3b16bfed2fa4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454656819,
+          "stop" : 1565454656819,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "lisi", "123", "0", "-1" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "bf56ba76f1d0739b",
+        "parentUid" : "e8c3142d71fec7f835dd3b16bfed2fa4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454656805,
+          "stop" : 1565454656805,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "", "2", "-2" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "3141abd069c2b4a7",
+        "parentUid" : "e8c3142d71fec7f835dd3b16bfed2fa4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454656811,
+          "stop" : 1565454656812,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "zhangsan", "12345", "1", "200" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "d1415c5c343a11cc",
+        "parentUid" : "e8c3142d71fec7f835dd3b16bfed2fa4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454656802,
+          "stop" : 1565454656803,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "1", "-2" ]
+      } ],
+      "uid" : "e8c3142d71fec7f835dd3b16bfed2fa4"
+    }, {
+      "name" : "18890@DayBreak.local.main(1)",
+      "children" : [ {
+        "name" : "testGetPrice",
+        "uid" : "6a9285f9708b68ef",
+        "parentUid" : "c12802410b7eaf0c09add815f88b4922",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565450007393,
+          "stop" : 1565450007394,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "1", "-2" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "b436678f4edba2ce",
+        "parentUid" : "c12802410b7eaf0c09add815f88b4922",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565450007403,
+          "stop" : 1565450007403,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "12345", "2", "120" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "146166eed236f703",
+        "parentUid" : "c12802410b7eaf0c09add815f88b4922",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565450007398,
+          "stop" : 1565450007398,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "0", "-2" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "5f461cdacdb4c9b8",
+        "parentUid" : "c12802410b7eaf0c09add815f88b4922",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565450007396,
+          "stop" : 1565450007396,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "", "2", "-2" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "447c1a318906ce08",
+        "parentUid" : "c12802410b7eaf0c09add815f88b4922",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565450007387,
+          "stop" : 1565450007388,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "", "用户名或密码不能为空" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "68077fe279febf79",
+        "parentUid" : "c12802410b7eaf0c09add815f88b4922",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565450007389,
+          "stop" : 1565450007389,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "12345", "欢迎管理员" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "d756db80608926f4",
+        "parentUid" : "c12802410b7eaf0c09add815f88b4922",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565450007293,
+          "stop" : 1565450007301,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "zhangsan", "123456", "欢迎zhangsan" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "1b9e97c36e860980",
+        "parentUid" : "c12802410b7eaf0c09add815f88b4922",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565450007405,
+          "stop" : 1565450007405,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "lisi", "123", "3", "80" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "94d6e64f969e9241",
+        "parentUid" : "c12802410b7eaf0c09add815f88b4922",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565450007407,
+          "stop" : 1565450007408,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "lisi", "123", "0", "-1" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "2aa5bd5695176cd6",
+        "parentUid" : "c12802410b7eaf0c09add815f88b4922",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565450007385,
+          "stop" : 1565450007385,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "用户名或密码不能为空" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "6be7592b9d0e6e78",
+        "parentUid" : "c12802410b7eaf0c09add815f88b4922",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565450007400,
+          "stop" : 1565450007401,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "zhangsan", "12345", "1", "200" ]
+      } ],
+      "uid" : "c12802410b7eaf0c09add815f88b4922"
+    }, {
+      "name" : "19176@DayBreak.local.main(1)",
+      "children" : [ {
+        "name" : "testGetPrice",
+        "uid" : "229d91253ccd8f98",
+        "parentUid" : "8e9d38e2c3647735a1284dc81c1f5acb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565452975455,
+          "stop" : 1565452975456,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "zhangsan", "12345", "1", "200" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "21273e4b7170f6d1",
+        "parentUid" : "8e9d38e2c3647735a1284dc81c1f5acb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565452975439,
+          "stop" : 1565452975440,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "", "用户名或密码不能为空" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "ad8ba1ee238fecdf",
+        "parentUid" : "8e9d38e2c3647735a1284dc81c1f5acb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565452975444,
+          "stop" : 1565452975445,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "12345", "欢迎管理员" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "b0b34e238c37d28f",
+        "parentUid" : "8e9d38e2c3647735a1284dc81c1f5acb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565452975434,
+          "stop" : 1565452975436,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "用户名或密码不能为空" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "191816ccf5388d13",
+        "parentUid" : "8e9d38e2c3647735a1284dc81c1f5acb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565452975289,
+          "stop" : 1565452975350,
+          "duration" : 61
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "zhangsan", "123456", "欢迎zhangsan" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "c4d6db678350c590",
+        "parentUid" : "8e9d38e2c3647735a1284dc81c1f5acb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565452975451,
+          "stop" : 1565452975451,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "", "2", "-2" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "730a303509234cdd",
+        "parentUid" : "8e9d38e2c3647735a1284dc81c1f5acb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565452975453,
+          "stop" : 1565452975453,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "0", "-2" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "6a89cee12650b0c",
+        "parentUid" : "8e9d38e2c3647735a1284dc81c1f5acb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565452975448,
+          "stop" : 1565452975450,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "1", "-2" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "78996cd6048017a0",
+        "parentUid" : "8e9d38e2c3647735a1284dc81c1f5acb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565452975458,
+          "stop" : 1565452975458,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "12345", "2", "120" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "dd0fa546957ba4aa",
+        "parentUid" : "8e9d38e2c3647735a1284dc81c1f5acb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565452975462,
+          "stop" : 1565452975462,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "lisi", "123", "0", "-1" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "1b5b59efe04e9a5b",
+        "parentUid" : "8e9d38e2c3647735a1284dc81c1f5acb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565452975460,
+          "stop" : 1565452975460,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "lisi", "123", "3", "80" ]
+      } ],
+      "uid" : "8e9d38e2c3647735a1284dc81c1f5acb"
+    }, {
+      "name" : "18806@DayBreak.local.main(1)",
+      "children" : [ {
+        "name" : "testGetPrice",
+        "uid" : "2e7d4f389c10a633",
+        "parentUid" : "4cc587118a3fd0957831768d7d0c4733",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565449881428,
+          "stop" : 1565449881428,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "", "2", "-2" ]
+      }, {
+        "name" : "这是test后面的描述",
+        "uid" : "53463c53aa18032a",
+        "parentUid" : "4cc587118a3fd0957831768d7d0c4733",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565449881421,
+          "stop" : 1565449881422,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "12345", "欢迎管理员" ]
+      }, {
+        "name" : "这是test后面的描述",
+        "uid" : "f80b0c561a4f4d15",
+        "parentUid" : "4cc587118a3fd0957831768d7d0c4733",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565449881415,
+          "stop" : 1565449881415,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "用户名或密码不能为空" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "5e70182b89e8c2f5",
+        "parentUid" : "4cc587118a3fd0957831768d7d0c4733",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565449881438,
+          "stop" : 1565449881439,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "lisi", "123", "0", "-1" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "fce49329e57c769f",
+        "parentUid" : "4cc587118a3fd0957831768d7d0c4733",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565449881425,
+          "stop" : 1565449881426,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "1", "-2" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "93be02133f14743b",
+        "parentUid" : "4cc587118a3fd0957831768d7d0c4733",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565449881430,
+          "stop" : 1565449881430,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "0", "-2" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "b486ef1670701716",
+        "parentUid" : "4cc587118a3fd0957831768d7d0c4733",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565449881436,
+          "stop" : 1565449881437,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "lisi", "123", "3", "80" ]
+      }, {
+        "name" : "这是test后面的描述",
+        "uid" : "26c99bee841b6e3",
+        "parentUid" : "4cc587118a3fd0957831768d7d0c4733",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565449881420,
+          "stop" : 1565449881420,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "", "用户名或密码不能为空" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "ca9d7230485ff556",
+        "parentUid" : "4cc587118a3fd0957831768d7d0c4733",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565449881434,
+          "stop" : 1565449881435,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "12345", "2", "120" ]
+      }, {
+        "name" : "这是test后面的描述",
+        "uid" : "574a7fe1a39fed56",
+        "parentUid" : "4cc587118a3fd0957831768d7d0c4733",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565449881319,
+          "stop" : 1565449881329,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "zhangsan", "123456", "欢迎zhangsan" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "70432f43cd02551",
+        "parentUid" : "4cc587118a3fd0957831768d7d0c4733",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565449881432,
+          "stop" : 1565449881433,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "zhangsan", "12345", "1", "200" ]
+      } ],
+      "uid" : "4cc587118a3fd0957831768d7d0c4733"
+    }, {
+      "name" : "19094@DayBreak.local.main(1)",
+      "children" : [ {
+        "name" : "用户登录测试",
+        "uid" : "d5c96b82d7fa0bfd",
+        "parentUid" : "74d83d1d4b3c1cd72cfc478c45712aa8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565452664986,
+          "stop" : 1565452664989,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "12345", "欢迎管理员" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "c6fcbec26ffe781a",
+        "parentUid" : "74d83d1d4b3c1cd72cfc478c45712aa8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565452664993,
+          "stop" : 1565452664995,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "1", "-2" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "e4a3f59acc058632",
+        "parentUid" : "74d83d1d4b3c1cd72cfc478c45712aa8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565452664821,
+          "stop" : 1565452664841,
+          "duration" : 20
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "zhangsan", "123456", "欢迎zhangsan" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "af33d26253c74678",
+        "parentUid" : "74d83d1d4b3c1cd72cfc478c45712aa8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565452664980,
+          "stop" : 1565452664982,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "", "用户名或密码不能为空" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "7a6513926aa0eaf8",
+        "parentUid" : "74d83d1d4b3c1cd72cfc478c45712aa8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565452665008,
+          "stop" : 1565452665008,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "12345", "2", "120" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "dbec6e599b9cb7dd",
+        "parentUid" : "74d83d1d4b3c1cd72cfc478c45712aa8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565452665010,
+          "stop" : 1565452665011,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "lisi", "123", "3", "80" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "ef3c3c6daa5ceffa",
+        "parentUid" : "74d83d1d4b3c1cd72cfc478c45712aa8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565452665001,
+          "stop" : 1565452665002,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "0", "-2" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "ca12e245894bf0ca",
+        "parentUid" : "74d83d1d4b3c1cd72cfc478c45712aa8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565452665004,
+          "stop" : 1565452665005,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "zhangsan", "12345", "1", "200" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "de1e960de2902f14",
+        "parentUid" : "74d83d1d4b3c1cd72cfc478c45712aa8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565452664998,
+          "stop" : 1565452664998,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "", "2", "-2" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "1a112c2cd7763eaa",
+        "parentUid" : "74d83d1d4b3c1cd72cfc478c45712aa8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565452664971,
+          "stop" : 1565452664975,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "用户名或密码不能为空" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "3cc57f49df588be6",
+        "parentUid" : "74d83d1d4b3c1cd72cfc478c45712aa8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565452665013,
+          "stop" : 1565452665013,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "lisi", "123", "0", "-1" ]
+      } ],
+      "uid" : "74d83d1d4b3c1cd72cfc478c45712aa8"
+    }, {
+      "name" : "19856@DayBreak.local.main(1)",
+      "children" : [ {
+        "name" : "testGetPrice",
+        "uid" : "b21762ea7dd6525f",
+        "parentUid" : "e6858affb6507054ce8de3c0b9129588",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454792194,
+          "stop" : 1565454792197,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "1", "-2" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "48cdc82fb0aea8a",
+        "parentUid" : "e6858affb6507054ce8de3c0b9129588",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454792204,
+          "stop" : 1565454792205,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "zhangsan", "12345", "1", "200" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "a173921abc2f2503",
+        "parentUid" : "e6858affb6507054ce8de3c0b9129588",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454792207,
+          "stop" : 1565454792208,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "12345", "2", "120" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "6bec306abe45686",
+        "parentUid" : "e6858affb6507054ce8de3c0b9129588",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454792174,
+          "stop" : 1565454792176,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "用户名或密码不能为空" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "cfbbbf9b228c0ef4",
+        "parentUid" : "e6858affb6507054ce8de3c0b9129588",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454791987,
+          "stop" : 1565454792070,
+          "duration" : 83
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "zhangsan", "123456", "欢迎zhangsan" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "be96b5aa322d276",
+        "parentUid" : "e6858affb6507054ce8de3c0b9129588",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454792202,
+          "stop" : 1565454792202,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "0", "-2" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "ae86dc12eadb4c08",
+        "parentUid" : "e6858affb6507054ce8de3c0b9129588",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454792210,
+          "stop" : 1565454792210,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "lisi", "123", "3", "80" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "13ab5c93efcb972",
+        "parentUid" : "e6858affb6507054ce8de3c0b9129588",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454792187,
+          "stop" : 1565454792189,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "12345", "欢迎管理员" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "a14da001998a574c",
+        "parentUid" : "e6858affb6507054ce8de3c0b9129588",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454792212,
+          "stop" : 1565454792212,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "lisi", "123", "0", "-1" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "67022709839c9963",
+        "parentUid" : "e6858affb6507054ce8de3c0b9129588",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454792181,
+          "stop" : 1565454792183,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "", "用户名或密码不能为空" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "e58e5146b6988bfa",
+        "parentUid" : "e6858affb6507054ce8de3c0b9129588",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565454792200,
+          "stop" : 1565454792200,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "", "2", "-2" ]
+      } ],
+      "uid" : "e6858affb6507054ce8de3c0b9129588"
+    }, {
+      "name" : "20175@DayBreak.local.main(1)",
+      "children" : [ {
+        "name" : "testGetPrice",
+        "uid" : "a40fb74c577782e2",
+        "parentUid" : "12c9877a2f43332455fd81ec38ebc300",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565455009314,
+          "stop" : 1565455009315,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "0", "-2" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "6a229b7afa7a8f46",
+        "parentUid" : "12c9877a2f43332455fd81ec38ebc300",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565455009105,
+          "stop" : 1565455009175,
+          "duration" : 70
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "zhangsan", "123456", "欢迎zhangsan" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "fd78b29333aa2b5",
+        "parentUid" : "12c9877a2f43332455fd81ec38ebc300",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565455009302,
+          "stop" : 1565455009305,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "12345", "欢迎管理员" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "b706916e9c0c2484",
+        "parentUid" : "12c9877a2f43332455fd81ec38ebc300",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565455009322,
+          "stop" : 1565455009323,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "lisi", "123", "3", "80" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "210e5e566f96be71",
+        "parentUid" : "12c9877a2f43332455fd81ec38ebc300",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565455009296,
+          "stop" : 1565455009298,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "", "用户名或密码不能为空" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "4980ac145ae24e48",
+        "parentUid" : "12c9877a2f43332455fd81ec38ebc300",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565455009309,
+          "stop" : 1565455009310,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "1", "-2" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "61038a517e2e373f",
+        "parentUid" : "12c9877a2f43332455fd81ec38ebc300",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565455009320,
+          "stop" : 1565455009320,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "12345", "2", "120" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "1ee7021113abd739",
+        "parentUid" : "12c9877a2f43332455fd81ec38ebc300",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565455009326,
+          "stop" : 1565455009326,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "lisi", "123", "0", "-1" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "5427968706a9e87a",
+        "parentUid" : "12c9877a2f43332455fd81ec38ebc300",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565455009317,
+          "stop" : 1565455009318,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "zhangsan", "12345", "1", "200" ]
+      }, {
+        "name" : "testGetPrice",
+        "uid" : "b85fee21f877ed5d",
+        "parentUid" : "12c9877a2f43332455fd81ec38ebc300",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565455009311,
+          "stop" : 1565455009312,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "admin", "", "2", "-2" ]
+      }, {
+        "name" : "用户登录测试",
+        "uid" : "646cbf593cb47a64",
+        "parentUid" : "12c9877a2f43332455fd81ec38ebc300",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565455009289,
+          "stop" : 1565455009291,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "", "用户名或密码不能为空" ]
+      } ],
+      "uid" : "12c9877a2f43332455fd81ec38ebc300"
+    } ],
+    "uid" : "fb0d983d6cc631d03c725ae0c9e0e16b"
+  } ]
+}
